@@ -1,0 +1,10 @@
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\bin\Debug\BufeFiyatUygulama.exe.config
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\bin\Debug\BufeFiyatUygulama.exe
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\bin\Debug\BufeFiyatUygulama.pdb
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\obj\Debug\BufeFiyatUygulama.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\obj\Debug\BufeFiyatUygulama.Form1.resources
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\obj\Debug\BufeFiyatUygulama.Properties.Resources.resources
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\obj\Debug\BufeFiyatUygulama.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\obj\Debug\BufeFiyatUygulama.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\obj\Debug\BufeFiyatUygulama.exe
+C:\Users\casper\Desktop\GitHub\BufeFiyatUygulama\BufeFiyatUygulama\obj\Debug\BufeFiyatUygulama.pdb
